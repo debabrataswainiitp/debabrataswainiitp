@@ -65,5 +65,5 @@ Here is my current progress and comfort level with various technologies, represe
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhar0727&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=a6a6a6" alt="Prakhar's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=debabrataswainiitp&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=a6a6a6" alt="GitHub stats of Deb" />
 </p>
